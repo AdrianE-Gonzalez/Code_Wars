@@ -1,0 +1,12 @@
+Used Recursion To Solve This Problem.
+Took About 2.5 Hours To Solve This, Give Or Take.
+
+Main Issues I Had:
+    -Trying To Figure Out How Determinant Worked For NxN Dimensions, Where  N > 3.
+        -Once I Figured This Out, I Knew To Properly Implement Recursion.
+    -Didn't Remember How To Initialize Empty 2D Vector. (Wasn't Sure How This Worked Exactly Because I've Been Working With Python)
+
+
+Notes For Next Problem:
+    -Commit To GitHub Each Step Of The Solution. (To Show My Progression)
+    -Maybe Write Down Each Issue/Question When Stuck. (Helps Me Understand What I'm Struggling With)
