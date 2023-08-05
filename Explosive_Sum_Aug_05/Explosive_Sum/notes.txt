@@ -1,0 +1,8 @@
+How To Implement Explosive Sum-
+        options: 
+            -looping through each iteration of x Number (dont want to do this, program will take to long to process for larger numbers)
+            -[WORK IN PROGRESS]Matrix Calculation (currently thinking of a solution to fill out matrix and callback to any outputs)
+            -Recursion could work, only concern is memory for larger numbers.
+
+    Main Issue:
+        Figuring out what algorithm to implement/how to implement.
