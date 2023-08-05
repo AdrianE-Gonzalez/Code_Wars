@@ -15,4 +15,10 @@ Log:  9:30am    Started Working. Implemented initial code, read through instruct
      11:30am    Trying to find a way to implement dynamic programming. (Im really struggling on coming up with a coding solution).
                     -might need a refresher on dynamic programming.
                 Taking a break. (comeback and relearn on how to implement dynamic programming)
-                    
+      2:30pm    Start Working. Learn how dynamic works with the current problem.
+      3:30pm    Stopped Working. Dynamic programming might not be the correct solution. Probably recursion might be the correct solution.
+                    -link that made me relize how dynamic programming might not be the correct solution, https://en.wikipedia.org/wiki/Partition_(number_theory)#.
+      4:20pm    I was just reading the wikipedia article linked earlier.
+
+Thoughts:
+    Aug05_4:20pm-Seems like an easy problem at first glance, but as I dugged deeper, the solution isn't clear a the moment. I'm done for now, going to continue tomorrow.
