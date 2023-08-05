@@ -6,3 +6,11 @@ How To Implement Explosive Sum-
 
     Main Issue:
         Figuring out what algorithm to implement/how to implement.
+
+
+
+Log:  9:30am    Started Working. Implemented initial code, read through instructions and tried figuring out how the problem workds.
+     10:10am    Came Up With Personal_Notes.png as Possible Solution. Stopped for break.
+
+                
+
