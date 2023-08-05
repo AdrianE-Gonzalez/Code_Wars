@@ -11,6 +11,8 @@ How To Implement Explosive Sum-
 
 Log:  9:30am    Started Working. Implemented initial code, read through instructions and tried figuring out how the problem workds.
      10:10am    Came Up With Personal_Notes.png as Possible Solution. Stopped for break.
-
-                
-
+     10:40am    Started Working. Trying to figure out how to implement Personal_Notes.png.
+     11:30am    Trying to find a way to implement dynamic programming. (Im really struggling on coming up with a coding solution).
+                    -might need a refresher on dynamic programming.
+                Taking a break. (comeback and relearn on how to implement dynamic programming)
+                    
