@@ -21,6 +21,11 @@ Log:  9:30am    Started Working. Implemented initial code, read through instruct
       4:20pm    I was just reading the wikipedia article linked earlier.
       [Aug_07]
      11:40am   Started Working.
-     
+     12:17pm   https://en.wikipedia.org/wiki/Triangle_of_partition_numbers: source of why the problem is recursive.
+      2:40pm   I'm calling it here. Will revisit once I get more practice problems under my belt. :(
+      3:50pm   Implemented a nested loop which stores the number of times (n-1) appears plus the remainder. Stpped Working.
+
 Thoughts:
     Aug05_4:20pm-Seems like an easy problem at first glance, but as I dugged deeper, the solution isn't clear a the moment. I'm done for now, going to continue "tomorrow".
+    Aug_072:40pm-One of the more difficult problems that I've encountered. One thought I had was implementing a matrix/vector inwhich 
+
